@@ -33,4 +33,8 @@
 - This is a library project which represents Data Transfer Objects.
 - It only contains databases entities, API request-response model.
 
+#### - VesselDBProject
+- Database Script Added.
+
+
 ![API Flow](https://raw.githubusercontent.com/werqlabs/VesselShippingAPI/main/VesselShippingAPI_Flow.png)
