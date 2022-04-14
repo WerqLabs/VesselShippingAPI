@@ -1,0 +1,14 @@
+﻿global using System.Data;
+global using System.Data.Common;
+global using System.Data.SqlClient;
+global using System.Reflection;
+global using Microsoft.OpenApi.Models;
+global using VesselShippingLineApi.Extensions;
+global using VesselShippingLineApi.IDataManagers;
+global using Swashbuckle.AspNetCore.SwaggerGen;
+global using VesselShippingLineApi.Swagger;
+global using VesselShippingLineApi.DataManagers;
+global using VesselShippingLineApi.IBAL;
+global using VesselShippingLineApi.Models.DTO;
+global using VesselShippingLineApi.Models.ApiRequest;
+global using VesselShippingLineApi.Models.ApiResponse;

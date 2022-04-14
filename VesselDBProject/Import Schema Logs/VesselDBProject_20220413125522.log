@@ -1,0 +1,84 @@
+04/13/2022 6:25:22 PM	This log contains information about the import schema operation into project 'VesselDBProject' on computer 'WS-L-0003' by user 'Pravin'.
+04/13/2022 6:25:22 PM	Import of database schema has started.
+04/13/2022 6:25:43 PM	Gathering logins
+04/13/2022 6:25:45 PM	Gathering database credentials
+04/13/2022 6:25:45 PM	Gathering database options
+04/13/2022 6:25:45 PM	Gathering generic database scoped configuration option
+04/13/2022 6:25:45 PM	Gathering users
+04/13/2022 6:25:45 PM	Gathering roles
+04/13/2022 6:25:45 PM	Gathering application roles
+04/13/2022 6:25:45 PM	Gathering role memberships
+04/13/2022 6:25:45 PM	Gathering filegroups
+04/13/2022 6:25:45 PM	Gathering full-text catalogs
+04/13/2022 6:25:45 PM	Gathering assemblies
+04/13/2022 6:25:45 PM	Gathering certificates
+04/13/2022 6:25:45 PM	Gathering symmetric keys
+04/13/2022 6:25:45 PM	Gathering encrypted symmetric keys
+04/13/2022 6:25:45 PM	Gathering schemas
+04/13/2022 6:25:45 PM	Gathering XML schema collections
+04/13/2022 6:25:45 PM	Gathering user-defined data types
+04/13/2022 6:25:45 PM	Gathering user-defined types
+04/13/2022 6:25:45 PM	Gathering table types
+04/13/2022 6:25:45 PM	Gathering unique keys for table types
+04/13/2022 6:25:45 PM	Gathering primary keys for table types
+04/13/2022 6:25:45 PM	Gathering indexes for table types
+04/13/2022 6:25:45 PM	Gathering check constraints for table types
+04/13/2022 6:25:45 PM	Gathering default constraints for table types
+04/13/2022 6:25:45 PM	Gathering partition functions
+04/13/2022 6:25:45 PM	Gathering partition schemes
+04/13/2022 6:25:45 PM	Gathering functions
+04/13/2022 6:25:45 PM	Gathering encrypted functions
+04/13/2022 6:25:45 PM	Gathering aggregates
+04/13/2022 6:25:45 PM	Gathering procedures
+04/13/2022 6:25:45 PM	Gathering encrypted procedures
+04/13/2022 6:25:45 PM	Gathering tables
+04/13/2022 6:25:45 PM	Gathering primary keys
+04/13/2022 6:25:45 PM	Gathering unique constraints
+04/13/2022 6:25:45 PM	Gathering foreign keys
+04/13/2022 6:25:45 PM	Gathering default constraints
+04/13/2022 6:25:45 PM	Gathering check constraints
+04/13/2022 6:25:45 PM	Gathering views
+04/13/2022 6:25:45 PM	Gathering encrypted views
+04/13/2022 6:25:45 PM	Gathering indexes
+04/13/2022 6:25:45 PM	Gathering statistics
+04/13/2022 6:25:45 PM	Gathering full-text index stoplists
+04/13/2022 6:25:45 PM	Gathering search property lists
+04/13/2022 6:25:45 PM	Gathering search properties
+04/13/2022 6:25:45 PM	Gathering full-text indexes
+04/13/2022 6:25:45 PM	Gathering column store indexes
+04/13/2022 6:25:46 PM	Gathering spatial indexes
+04/13/2022 6:25:46 PM	Gathering XML indexes
+04/13/2022 6:25:46 PM	Gathering Selective XML indexes
+04/13/2022 6:25:46 PM	Gathering encrypted triggers
+04/13/2022 6:25:46 PM	Gathering triggers
+04/13/2022 6:25:46 PM	Gathering encrypted and clr ddl triggers
+04/13/2022 6:25:46 PM	Gathering ddl triggers
+04/13/2022 6:25:46 PM	Creating edge constraints
+04/13/2022 6:25:46 PM	Gathering synonyms
+04/13/2022 6:25:46 PM	Gathering defaults
+04/13/2022 6:25:46 PM	Gathering data constraint uddt bindings
+04/13/2022 6:25:46 PM	Gathering rules
+04/13/2022 6:25:46 PM	Gathering data constraint uddt bindings
+04/13/2022 6:25:46 PM	Gathering message types
+04/13/2022 6:25:46 PM	Gathering queues
+04/13/2022 6:25:46 PM	Gathering contracts
+04/13/2022 6:25:46 PM	Gathering services
+04/13/2022 6:25:46 PM	Gathering event notifications
+04/13/2022 6:25:46 PM	Gathering remote service bindings
+04/13/2022 6:25:46 PM	Gathering broker priorities
+04/13/2022 6:25:46 PM	Gathering signatures
+04/13/2022 6:25:46 PM	Gathering data compression options
+04/13/2022 6:25:46 PM	Gathering sequence types
+04/13/2022 6:25:46 PM	Gathering security policies
+04/13/2022 6:25:46 PM	Gather column encryption keys
+04/13/2022 6:25:46 PM	Gathering column master keys
+04/13/2022 6:25:46 PM	Gathering external data sources
+04/13/2022 6:25:46 PM	Gathering external tables
+04/13/2022 6:25:46 PM	Gathering extended properties
+04/13/2022 6:25:46 PM	Gathering assemblies
+04/13/2022 6:25:52 PM	Gathering logins
+04/13/2022 6:25:56 PM	Scanning project for duplicate elements
+04/13/2022 6:25:56 PM	Finished duplicate element processing
+04/13/2022 6:25:56 PM	Finished importing database.
+04/13/2022 6:25:56 PM	A summary of the import was saved to the following location: D:\WerqLabs Projects\@RND\Backup\vesselshippinglineapi\VesselDBProject\Import Schema Logs\VesselDBProject_20220413125522.log
+04/13/2022 6:25:56 PM	Click Finish to continue...
